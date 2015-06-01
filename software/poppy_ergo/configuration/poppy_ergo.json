@@ -28,8 +28,8 @@
       "type": "RX-64",
       "id": 11,
       "angle_limit": [
-        -112.5,
-        67.5
+        -120.0,
+        120.0
       ],
       "orientation": "direct"
     },
@@ -38,8 +38,8 @@
       "type": "RX-64",
       "id": 12,
       "angle_limit": [
-        -90.0,
-        90.0
+        -120.0,
+        120.0
       ],
       "orientation": "indirect"
     },
@@ -58,8 +58,8 @@
       "type": "RX-28",
       "id": 14,
       "angle_limit": [
-        -112.5,
-        67.5
+        -150,
+        150
       ],
       "orientation": "direct"
     },
@@ -68,8 +68,8 @@
       "type": "RX-28",
       "id": 15,
       "angle_limit": [
-        -90.0,
-        90.0
+        -120.0,
+       120.0
       ],
       "orientation": "indirect"
     },
@@ -78,18 +78,18 @@
       "type": "RX-28",
       "id": 16,
       "angle_limit": [
-        -90.0,
-        90.0
+        -120.0,
+        120.0
       ],
       "orientation": "indirect"
     },
     
     "m7": {
-      "offset": 52.5,
+      "offset": 50.5,
       "type": "RX-28",
       "id": 17,
       "angle_limit": [
-        52.5,
+        47.5,
         97
       ],
       "orientation": "direct"
